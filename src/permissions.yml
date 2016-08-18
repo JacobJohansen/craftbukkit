@@ -1,0 +1,16 @@
+groups:
+  Guest:
+    default: true
+    prefix: '&7(Player)'
+    permissions:
+    - -'*'
+    options:
+      rank: '1000'
+users:
+  DistributedGuru:
+    permissions:
+    - bukkit.*
+    - permissions.*
+    - essentials.*
+    - vault.*
+    - '*'
